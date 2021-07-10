@@ -1,1 +1,5 @@
 Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/.ipynb_checkpoints/
+Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/unsolved-file/
+Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/notebook-md/
+Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/notebook.html
+Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/notebook.pdf
