@@ -46,8 +46,8 @@ $RECYCLE.BIN/
 
 */notebook-md/*
 
-*/*.html
+*.html
 
-*/*.pdf
+*.pdf
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,windows
