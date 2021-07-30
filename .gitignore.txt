@@ -1,5 +1,13 @@
 Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/.ipynb_checkpoints/
 Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/unsolved-file/
 Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/notebook-md/
-Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/notebook.html
-Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/notebook.pdf
+Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/investigating-netflix-movies-and-guest-stars-in-the-office.html
+Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/investigating-netflix-movies-and-guest-stars-in-the-office.pdf
+The-Android-App-Market-on-Google-Play/.ipynb_checkpoints/
+The-Android-App-Market-on-Google-Play/notebook-md/
+The-Android-App-Market-on-Google-Play/the-android-app-market-on-google-play.html
+The-Android-App-Market-on-Google-Play/the-android-app-market-on-google-play.pdf
+The-GitHub-History-of-the-Scala-Language/.ipynb_checkpoints/
+The-GitHub-History-of-the-Scala-Language/notebook-md/
+The-GitHub-History-of-the-Scala-Language/the-github-history-of-the-scala-language.html
+The-GitHub-History-of-the-Scala-Language/the-github-history-of-the-scala-language.pdf
